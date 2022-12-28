@@ -21,7 +21,8 @@ Route::get('/', function () {
 });
 
 
-Route::get('dashboard', [HomeController::class, 'dashboard']);
+Route::get('home', [HomeController::class, 'home']);
+Route::post('user-search', [HomeController::class, 'search']);
 
 Route::prefix('user')->group(function () {
     Route::get('/', [UserController::class, 'user']);

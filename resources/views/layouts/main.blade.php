@@ -64,9 +64,9 @@
 
 
                     <li class="nav-item">
-                            <a href="{{url('dashboard')}}" class="nav-link {{ (Request::segment(1)=='dashboard')?'active':'' }}">
+                            <a href="{{url('home')}}" class="nav-link {{ (Request::segment(1)=='home')?'active':'' }}">
                                 <i class="fa fa-home nav-icon"></i>
-                                <p>Dashboard</p>
+                                <p>Home</p>
                             </a>
                         </li>
                         <li class="nav-item">
