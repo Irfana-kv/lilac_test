@@ -93,7 +93,7 @@ table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before, table.dataT
     border-left-color:#d2d6de;
 }
 .content-wrapper{
-    background-image: url('../../dist/img/bg.jpg');
+    /* background-image: url('../../dist/img/bg.jpg'); */
 }
 .caption_note{
     font-size: 14px;

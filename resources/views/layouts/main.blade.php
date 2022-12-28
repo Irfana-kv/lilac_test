@@ -123,7 +123,6 @@
     <script src="{{asset('backend/plugins/datatables-buttons/js/buttons.colVis.min.js')}}"></script>
     <script src="{{asset('backend/plugins/bootstrap-switch/js/bootstrap-switch.min.js')}}"></script>
     <script src="{{asset('backend/dist/js/adminlte.js')}}"></script>
-    <script src="{{asset('backend/dist/js/demo.js')}}"></script>
     <script src="{{asset('backend/dist/js/sweetalert.min.js')}}"></script>
     <script src="{{asset('backend/dist/js/sweetalert-init.js')}}"></script>
     <script src="{{asset('backend/dist/js/bootstrap-notify.js')}}"></script>
